@@ -1,6 +1,11 @@
 ## description of files
 
-- **Stock.h and Stock.cpp**: For the Stock class.
+- **Stock.h and Stock.cpp**: 
+Stock.h: This file defines the Stock class, which represents a stock with attributes such as symbol (ticker symbol) and price (current stock price). It also declares the class constructor and an equality operator to compare stocks based on their symbol.
+
+Stock.cpp: This file contains the implementation of the methods declared in Stock.h. It includes the constructor to initialize stock objects and the equality operator to check if two stocks have the same symbol.
+
+Together, these files manage the basic structure and behavior of stock objects used in the trading system.
 - **Account.h and Account.cpp**: For the Account class.
 - **Transaction.h and Transaction.cpp**: For the Transaction class.
 - **TradingApp.h and TradingApp.cpp**: For the TradingApp class and the main logic.
