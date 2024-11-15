@@ -39,7 +39,7 @@ This is a console-based trading application built in C++, designed to simulate a
 - **Real-Time Stock Data**: Integrating with APIs for real-time stock prices.
 - **Graphical User Interface (GUI)**: Developing a GUI for a better user experience.
 
-## descriptions of file
+## description of files
 
 - **Stock.h and Stock.cpp**: For the Stock class.
 - **Account.h and Account.cpp**: For the Account class.
